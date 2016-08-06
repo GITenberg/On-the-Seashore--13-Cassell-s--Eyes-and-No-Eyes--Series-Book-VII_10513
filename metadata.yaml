@@ -1,0 +1,29 @@
+_repo: On-the-Seashore--13-Cassell-s--Eyes-and-No-Eyes--Series-Book-VII_10513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, R. Cadwallader
+    gutenberg_agent_id: '3567'
+    url: http://www.gutenberg.org/2009/agents/3567
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seashore plants -- Juvenile literature'
+- !lcsh 'Marine plants -- Juvenile literature'
+- !lcc 'QH'
+- !lcsh 'Seashore animals -- Juvenile literature'
+- !lcsh 'Marine animals -- Juvenile literature'
+- GITenberg
+tableOfContents: Five-fingered Jack -- A stroll by the sea -- Birds of the shore --
+  Crabs -- Shrimps, prawns and barnacles -- Plants of the shore -- Flower-like animals
+  -- Sea-weeds and sea-grass -- The jelly-fish -- Shells and their builders (1) --
+  Shells and their builders (2).
+title: "On the Seashore\r\nCassell's \"Eyes and No Eyes\" Series, Book VII"
+url: http://www.gutenberg.org/ebooks/10513
