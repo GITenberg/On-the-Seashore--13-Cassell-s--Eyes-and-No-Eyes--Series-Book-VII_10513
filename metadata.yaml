@@ -1,11 +1,16 @@
 _repo: On-the-Seashore--13-Cassell-s--Eyes-and-No-Eyes--Series-Book-VII_10513
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, R. Cadwallader
     gutenberg_agent_id: '3567'
     url: http://www.gutenberg.org/2009/agents/3567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10513#On-the-Seashore--13-Cassell-s--Eyes-and-No-Eyes--Series-Book-VII
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
